@@ -37,7 +37,6 @@ class FaisalIqbal:
     def mission(self):
         return "Turn research into intelligent, trustworthy and real-world software."
 ```
-
 > 🎯 **Research-oriented Computer Science graduate** with a strong foundation in **Artificial Intelligence, Machine Learning, Deep Learning, Full-Stack and Mobile Development**. I love building intelligent systems, leading multidisciplinary teams, and exploring how **quantum computing can strengthen deep learning for healthcare**.
 
 <br/>
