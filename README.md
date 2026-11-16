@@ -177,8 +177,8 @@ class FaisalIqbal:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=faisal-iqbal-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-iqbal-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://img.shields.io/github/followers/faisal-iqbal-cyber?label=Followers&style=for-the-badge&color=7b2ff7&logo=github"/>
+<img src="https://img.shields.io/github/stars/faisal-iqbal-cyber?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=00c6ff&logo=github"/>
 
 <img src="https://streak-stats.demolab.com/?user=faisal-iqbal-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=7b2ff7&currStreakLabel=00c6ff" alt="GitHub Streak"/>
 
